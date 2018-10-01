@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "856319112625",
+    "firebase_url": "https://myapplication-e1bdd.firebaseio.com",
+    "project_id": "myapplication-e1bdd",
+    "storage_bucket": "myapplication-e1bdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856319112625:android:14fc1b942e063eb6",
+        "android_client_info": {
+          "package_name": "e.huini.myapp.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856319112625-h0vmorb79o290rle524mfe1tnchsufv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrurMlleTrYp9_HH-OYfsAQFRh8po0aUA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856319112625:android:0bd756ec78f499fd",
+        "android_client_info": {
+          "package_name": "e.huini.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856319112625-h0vmorb79o290rle524mfe1tnchsufv0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrurMlleTrYp9_HH-OYfsAQFRh8po0aUA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
